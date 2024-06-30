@@ -1,1 +1,1 @@
-# crowd_detection_training
+# crowd-detection-training
